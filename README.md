@@ -27,8 +27,8 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<Определила, что является юнитом в нашей экономике, нашла все расчетные показатели - параметры калькулятора>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a](https://docs.google.com/spreadsheets/d/1aQMp0ugEhf2jWkZwizb6tt1VMB_S6EMA/edit?usp=sharing&ouid=112081177512490890512&rtpof=true&sd=true)>
+
 
 
 <p>Проект 2: Моделирование изменения балансов студентов</p> 
@@ -40,8 +40,8 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<Создадим CTE>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
-(ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
+> <a href="[https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект](https://docs.google.com/document/d/1Mb1SfvFtt-jEa3hFZ20Zr5cXaOJ4c9z-/edit?usp=sharing&ouid=112081177512490890512&rtpof=true&sd=true)</a>
+
  
 
 ## Контактная информация
