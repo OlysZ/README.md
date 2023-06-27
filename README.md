@@ -46,5 +46,3 @@
 
 ## Контактная информация
 - Email: igra054@eya.ru
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
